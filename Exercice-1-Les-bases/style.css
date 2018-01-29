@@ -1,0 +1,30 @@
+body {
+  background-color: #7F000D;
+  font-family: sans-serif;
+}
+
+h1{
+  color: black;
+  text-align: center;
+}
+
+h2{
+  color: #400006;
+}
+
+h3{
+  color: #4F0300;
+}
+
+a{
+  text-decoration: none;
+  color: #4F0300;
+}
+
+xmp{
+  color: #D74D48;
+}
+
+p{
+    color: #4F0800;
+}
